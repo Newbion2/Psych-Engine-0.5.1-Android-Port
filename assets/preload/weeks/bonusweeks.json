@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"salvage",
+			"spingap",
+			[
+				37,
+				36,
+				24
+			]
+		],
+		[
+			"nightmare",
+			"spingap",
+			[
+				37,
+				36,
+				24
+			]
+		],
+		[
+			"fourth-wall",
+			"scott",
+			[
+				188,
+				225,
+				250
+			]
+		],
+		[
+			"just-a-theory",
+			"matpat",
+			[
+				150,
+				209,
+				98
+			]
+		],
+		[
+			"fazbars",
+			"feddy",
+			[
+				150,
+				209,
+				98
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "scottcawthon",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Scott Cawthon!",
+	"weekName": "Bonus Songs!!",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "afton",
+	"startUnlocked": true
+}
