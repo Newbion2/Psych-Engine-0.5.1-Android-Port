@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="feddyFatbear.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fatbear" x="0" y="0" width="756" height="611"/>
+	<SubTexture name="fatbeartak0000" x="0" y="0" width="765" height="611"/>
+	<SubTexture name="fatbeartak LOOP0000" x="0" y="0" width="756" height="611"/>
+</TextureAtlas>
