@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BF idle dance",
+	"image": "bfmini",
+	"position": [
+		-56,
+		-170
+	],
+	"flipX": false,
+	"scale": 1.9,
+	"confirm_anim": "BF NOTE UP HIT"
+}

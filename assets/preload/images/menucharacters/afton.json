@@ -1,0 +1,11 @@
+{
+	"idle_anim": "afton af idle",
+	"image": "afton",
+	"position": [
+		116,
+		-48
+	],
+	"flipX": false,
+	"scale": 1.5,
+	"confirm_anim": "M Dad Idle"
+}
