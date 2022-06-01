@@ -1,0 +1,10 @@
+Ported for the Fourth Wall LOL sorry 
+to original creator
+
+Value1:
+0 - Flash at 0.8 sec (Gradient4 In files - grad4
+Value2:
+0 - Flash at 0.8 sec (Gradient1-3 In Files - grad, grad1
+grad2, grad3)
+
+both val 1-2 are ZERO
