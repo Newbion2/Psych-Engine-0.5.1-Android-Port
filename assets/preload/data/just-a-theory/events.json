@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "matpat",
+		"player1": "bf",
+		"player2": "matpat",
+		"player3": null,
+		"events": [
+			[
+				21333.3333333333,
+				[
+					[
+						"Matpat-to-Pixel-First",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21666,
+				[
+					[
+						"Camera Follow Pos",
+						"450",
+						"-50"
+					]
+				]
+			],
+			[
+				21666,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"15"
+					]
+				]
+			],
+			[
+				21666.6666666667,
+				[
+					[
+						"GT-Logo-Anim",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22000,
+				[
+					[
+						"GT-Logo-Anim",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				22166.6666666667,
+				[
+					[
+						"GT-Logo-Anim",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"GT-Logo-Anim",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22666.6666666667,
+				[
+					[
+						"Matpat-Zoom-Out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Matpat-to-Normal",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Matpat-to-Pixel",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Matpat-to-Normal",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfnospeaker",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Just-A-Theory"
+	}
+}
