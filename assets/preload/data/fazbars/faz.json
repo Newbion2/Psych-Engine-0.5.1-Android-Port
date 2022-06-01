@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "miss_faz",
+			"speed": 0.05,
+			"portrait": "feddyfatbear",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welcim tk freddy fazbear pizzadc"
+		},
+		{
+			"sound": "miss_faz",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ey"
+		},
+		{
+			"sound": "miss_faz",
+			"speed": 0.05,
+			"portrait": "feddyfatbear",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "a magician place where a kids and grown up's alike!"
+		},
+		{
+			"sound": "miss_faz",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "i am a grown up man"
+		},
+		{
+			"sound": "miss_faz",
+			"speed": 0.05,
+			"portrait": "feddyfatbear",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "miss_faz",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "aw :("
+		}
+	]
+}
