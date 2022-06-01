@@ -1,0 +1,8 @@
+Ported this PORT lol sorry original mod creators
+
+Value1:
+BB is coming to ur house RUN 
+0 - jump bb
+1 - adios bb
+
+Only VALUE 1

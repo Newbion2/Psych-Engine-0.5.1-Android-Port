@@ -1,0 +1,8 @@
+Ported this PORT lol sorry original mod creators
+
+Value1:
+Poopet is showing 
+0 - poop show
+1 - adios poop
+
+Only VALUE 1

@@ -1,0 +1,7 @@
+Ported this PORT lol sorry original mod creators
+
+Value1: 
+1 - to show shadow bonniessssssss bg
+0- random it when the song gonna end
+
+Only VALUE 1

@@ -1,0 +1,10 @@
+Ported this PORT lol sorry original mod creators
+
+Value1:
+1 - 75% alpha of boyfriend and icon
+2 - 50% alpha of boyfriend and icon
+3 - 35% alpha of boyfriend and icon
+4 - 15% alpha of boyfriend and icon
+5 - 0% boyfriend and icon is officially gone lol
+
+Only VALUE 1
