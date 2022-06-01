@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bf_matpat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bf_matpat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bf_matpat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bf_matpat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bf_matpat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "bf_matpat mleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-186
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "bf_matpat mdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "bf_matpat mup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-186
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "bf_matpat m right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf_matpat",
+	"position": [
+		360,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		175,
+		213
+	],
+	"camera_position": [
+		300,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 20
+}

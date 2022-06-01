@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-12
+			],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "retry retry"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				-12
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "retry idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "retry idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/retry",
+	"position": [
+		-590,
+		0
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
